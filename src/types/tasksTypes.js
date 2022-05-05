@@ -1,0 +1,7 @@
+export const GET_TASKS = 'tasks_get_tasks'
+export const LOADING = 'tasks_loading'
+export const ERROR = 'tasks_error'
+export const SAVE_TASK = 'added_task'
+export const CHANGE_USER_ID = 'change_user_id'
+export const CHANGE_TITLE = 'change_title'
+export const UPDATED = 'tasks_update'
